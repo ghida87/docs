@@ -1,3 +1,3 @@
 # docs
 
-[Documentation wiki](wiki)
+[Documentation wiki](../../wiki)
